@@ -1,6 +1,4 @@
 # NodeScheme
-Scheme Compile to readable JavaScript 
-
 This project is still in the trial phase.
 
 The current existing Scheme to JavaScript is mostly an interpreter implemented on the JavaScript running-time. In the web environment, there is extra running-time overhead and extra download overhead (to download the interpreter code).

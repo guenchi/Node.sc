@@ -14,6 +14,6 @@ In the future, efforts will be made to extend to the R6RS Scheme standard.
 NodeScheme running on [Chez Scheme](https://www.scheme.com) to compile the Scheme code into JavaScript code and use the [Nanopass](http://nanopass.org) framework to design the compiler backend.
 
 
-### demo: syntax-rules compile to js
+### Demo: syntax-rules macro compile to js
 
 ![img](https://github.com/guenchi/NodeScheme/blob/master/demo.png)

@@ -16,4 +16,4 @@ NodeScheme running on [Chez Scheme](https://www.scheme.com) to compile the Schem
 
 ### Demo: syntax-rules macro compile to js
 
-![img](https://github.com/guenchi/NodeScheme/blob/master/demo.png)
+![img](https://github.com/guenchi/NodeScheme/blob/master/macro.png)

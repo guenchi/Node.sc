@@ -11,7 +11,7 @@ The goal of the project is to compile a subset of R6RS Scheme into ES6 Javascrip
 
 In the future, efforts will be made to extend to the R6RS Scheme standard.
 
-NodeScheme running on [Chez Scheme](https://www.scheme.com) to compile the Scheme code into JavaScript code and use the [Nanopass](http://nanopass.org) framework to design the compiler backend.
+Node.sc running on [Chez Scheme](https://www.scheme.com) to compile the Scheme code into JavaScript code and use the [Nanopass](http://nanopass.org) framework to design the compiler backend.
 
 
 ### Demo: syntax-rules macro compile to js
